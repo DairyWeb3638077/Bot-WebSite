@@ -91,7 +91,7 @@ export const siteConfig: SiteConfig = {
   
   siteName: "Razor", //footer
   siteDescription: "A powerful Discord bot that brings advanced features and seamless automation to your server.", //footer
-  siteUrl: "https://domain.com",
+  siteUrl: "https://bot-web-site-phi.vercel.app",
 
   features: {
     enableCommands: true,
@@ -100,8 +100,8 @@ export const siteConfig: SiteConfig = {
   
   // chmqp dashboard enjoy
   discord: {
-    clientId: "YOUR_DISCORD_CLIENT_ID", // Replace with your Discord application client ID
-    redirectUri: "http://localhost:5173/dashboard/callback", // Update for production
+    clientId: "865690661188927549", // Replace with your Discord application client ID
+    redirectUri: "https://bot-web-site-phi.vercel.app/dashboard/callback", // Update for production
     scopes: ["identify", "guilds"]
   }
 };
