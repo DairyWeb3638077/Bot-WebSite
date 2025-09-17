@@ -89,7 +89,7 @@ export const siteConfig: SiteConfig = {
   },
   
   
-  siteName: "Razor", //footer
+  siteName: "Razorj", //footer
   siteDescription: "A powerful Discord bot that brings advanced features and seamless automation to your server.", //footer
   siteUrl: "https://bot-web-site-phi.vercel.app",
 
